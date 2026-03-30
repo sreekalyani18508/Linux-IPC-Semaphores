@@ -22,7 +22,7 @@ Execute the C Program for the desired output.
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
-
+```
 #include <stdio.h>      
 #include <stdlib.h>     
 #include <unistd.h>     
@@ -118,16 +118,15 @@ int main() {
 }
 
 
-
+```
 
 ## OUTPUT
 $ ./sem.o 
-![image](image/666.png)
+![ image](image/image1.png)
 
 $ ipcs
 
-![image](image/555.png)
-
+![image](image/image2.png)
 
 
 # RESULT:
